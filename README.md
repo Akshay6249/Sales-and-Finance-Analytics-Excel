@@ -14,7 +14,7 @@ The goal of this project is to create a robust business intelligence solution fo
 
 ## 3. Sales Analytics Objectives:
 
-- **Customer Performance Report:** Generate insights into revenue by customer segment, understanding customer behavior and trends.[View Report](https://github.com/Akshay6249/Sales-and-Finance-Analytics-Excel/blob/381afaa538a7433f398233c739982fa6428a1fe2/CustomerPerformance%20Report.pdf.md)
+- **Customer Performance Report:** Generate insights into revenue by customer segment, understanding customer behavior and trends.[View Report](https://github.com/Akshay6249/Sales-and-Finance-Analytics-Excel/blob/381afaa538a7433f398233c739982fa6428a1fe2/CustomerPerformance%20Report.md)
 
 - **Market Performance vs. Target Report:** Analyze the performance of different regions against their sales targets.
 
