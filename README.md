@@ -16,7 +16,8 @@ The goal of this project is to create a robust business intelligence solution fo
 
 - **Customer Performance Report:** Generate insights into revenue by customer segment, understanding customer behavior and trends.[View Report](CustomerPerformance%20Report.pdf)
 
-- **Market Performance vs. Target Report:** Analyze the performance of different regions against their sales targets.
+- **Market Performance vs. Target Report:** Analyze the performance of different regions against their sales targets.[View Report](Market%20Performance%20Vs%20Target%20Report.pdf
+)
 
 ## 4. Purpose of Sales Analytics:
 
