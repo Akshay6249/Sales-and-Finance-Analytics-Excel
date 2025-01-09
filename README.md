@@ -25,17 +25,23 @@ Sales analytics provides AtliQ with valuable insights into sales patterns and pe
 
 ## 5. Key Insights from Sales Analytics:
 
-- **Top 10 Products Report:** Identifies products with significant sales growth between 2020 and 2021, highlighting shifting customer preferences.
-- **Division-Level Performance (304.5% Increase):** Evaluates revenue growth by division, with substantial increases in segments like N & S (184.4%), P & A (321.5%), and PC (413.7%).
-- **Top 5 & Bottom 5 Products:** Highlights the best and worst-performing products by quantity sold to guide inventory and marketing strategies.
-- **New Products by Fiscal Year:** Analyzes the success of new product launches, such as "AQ Qwerty," introduced in 2021.
-- **Top 5 Countries:** Identifies the countries with the highest sales, including India, the USA, and South Korea, pinpointing key markets for growth.
+- **Top 10 Products Report:** Identifies products with significant sales growth between 2020 and 2021, highlighting shifting customer preferences.[View Report](Top%2010%20Products%20Report.pdf
+)
+- **Division-Level Performance (304.5% Increase):** Evaluates revenue growth by division, with substantial increases in segments like N & S (184.4%), P & A (321.5%), and PC (413.7%).[View Report](Division%20Level%20Report.pdf
+)
+- **Top 5 & Bottom 5 Products:** Highlights the best and worst-performing products by quantity sold to guide inventory and marketing strategies.[View Report](Top%20%26%20Bottom%205%20Products%20Report.pdf
+)
+- **New Products by Fiscal Year:** Analyzes the success of new product launches, such as "AQ Qwerty," introduced in 2021.[View Report](New%20Products%20By%202021.pdf
+)
+- **Top 5 Countries:** Identifies the countries with the highest sales, including India, the USA, and South Korea, pinpointing key markets for growth.[View Report](Top%205%20Country%20-2021.pdf
+)
 
 ## 6. Financial Analytics Objectives:
 
-- **P&L by Fiscal Year Report:** Track financial performance and identify trends over the years.
-- **P&L by Month Report:** Monitor financial progress on a monthly basis to make timely adjustments.
-- **P&L by Market Report:** Evaluate profitability across different geographic regions to optimize market-specific strategies.
+- **P&L by Fiscal Year Report:** Track financial performance and identify trends over the years.[View Report](P%20%26%20L%20Statement%20By%20Fiscal%20Years.pdf
+)
+- **P&L by Month Report:** Monitor financial progress on a monthly basis to make timely adjustments.[View Report](P%20%26%20L%20Statement%20By%20Fiscal%20Months.pdf
+)
 
 ## 7. Purpose of Financial Analytics:
 
@@ -47,7 +53,6 @@ Financial analytics offer insights into profitability, budgeting, and overall fi
 - **Market Performance vs. Target Report:** Identifies regions that outperformed or fell short of sales targets, helping refine strategies for underperforming markets.
 - **P&L by Fiscal Year Report:** Provides an in-depth review of revenue and expenses, showing consistent growth and strong gross margins year-over-year.
 - **Gross Margin Percentage by Quarters:** Insights into quarterly gross margin performance across regions, highlighting the most profitable areas.
-- **P&L by Market Report:** Evaluates profitability across various markets, including strong performers like Japan and New Zealand, and areas such as Germany requiring attention.
 
 ## 9. Technical & Soft Skills:
 
